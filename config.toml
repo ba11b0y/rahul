@@ -1,7 +1,8 @@
-baseURL = "https://ba11b0y.github.io/rahul/"
+baseURL = "/"
 languageCode = "en-us"
 title = "Example Lekh Site"
 theme = "lekh"
+relativeURLs = true
 
 [params]
 Name = "Rahul Tiwari"
