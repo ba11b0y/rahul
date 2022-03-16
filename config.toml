@@ -10,7 +10,7 @@ Email = "jprrahultiwari@gmail.com"
 About = "Backend Developer. Can write Go and Python. Loves football, FOSS, doing things and metacognition in the order mentioned."
 Resume = "" # Add the filename with file extension.
 PostLimit = 4 # Sets the number of posts to display on the front page
-GoatCounterCode = ""
+GoatCounterCode = "https://rtiwari.goatcounter.com/count"
 
 [[params.profiles]]
 name = "GitHub"
