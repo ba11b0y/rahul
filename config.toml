@@ -7,7 +7,7 @@ relativeURLs = true
 [params]
 Name = "Rahul Tiwari"
 Email = "jprrahultiwari@gmail.com"
-About = "Backend Developer. Can write Go and Python. Loves football, FOSS, doing things and metacognition in the order mentioned."
+About = "Software Engineer, FOSS fan and a systems enthusiast."
 Resume = "" # Add the filename with file extension.
 PostLimit = 4 # Sets the number of posts to display on the front page
 GoatCounterCode = "https://rtiwari.goatcounter.com/count"
