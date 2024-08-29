@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Example Lekh Site</title>
-    <link>/</link>
+    <link>//localhost:1313/</link>
     <description>Recent content on Example Lekh Site</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 13 Aug 2022 16:18:04 +0530</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 28 Aug 2024 23:09:25 -0400</lastBuildDate>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Reflections on the first month in the West</title>
+      <link>//localhost:1313/posts/reflections-first-month-west/</link>
+      <pubDate>Wed, 28 Aug 2024 23:09:25 -0400</pubDate>
+      <guid>//localhost:1313/posts/reflections-first-month-west/</guid>
+      <description>Hello!&#xA;Today is the 28th of August, which marks exactly a month of my time here in the West, more specifically in the United States of America. The journey to the West seemed daunting and close to impossible when I first registered for an English proficiency test, which exists for people who want to travel to the West and are not native English speakers (like me).&#xA;My journey It started on a sad note after waving a teary goodbye to my parents and relatives back home.</description>
+    </item>
     <item>
       <title>Reflections on first tech talk</title>
-      <link>/posts/relfection-first-tech-talk/</link>
+      <link>//localhost:1313/posts/relfection-first-tech-talk/</link>
       <pubDate>Sat, 13 Aug 2022 16:18:04 +0530</pubDate>
-      
-      <guid>/posts/relfection-first-tech-talk/</guid>
-      <description>Giving a tech talk was no more than a far-fetched idea until I interacted with Vincent who was kind enough to sponsor a ticket for remotely held Python Pizza conference during COVID.
-Quoting him from our twitter DM conversation
-You can always contribute to a 5 minute lightning talk. There&amp;rsquo;s bound to be a super awesome function that you&amp;rsquo;ve learned that others don&amp;rsquo;t know about.
-Fast forward two years, I was fortunate that my workplace organised the 68th meetup of Golang Bangalore, and I managed to talk about the Go scheduler and the syscalls which a Go program makes during runtime.</description>
+      <guid>//localhost:1313/posts/relfection-first-tech-talk/</guid>
+      <description>Giving a tech talk was no more than a far-fetched idea until I interacted with Vincent who was kind enough to sponsor a ticket for remotely held Python Pizza conference during COVID.&#xA;Quoting him from our twitter DM conversation&#xA;You can always contribute to a 5 minute lightning talk. There&amp;rsquo;s bound to be a super awesome function that you&amp;rsquo;ve learned that others don&amp;rsquo;t know about.&#xA;Fast forward two years, I was fortunate that my workplace organised the 68th meetup of Golang Bangalore, and I managed to talk about the Go scheduler and the syscalls which a Go program makes during runtime.</description>
     </item>
-    
     <item>
       <title>About this site</title>
-      <link>/posts/about-this-site/</link>
+      <link>//localhost:1313/posts/about-this-site/</link>
       <pubDate>Sun, 02 May 2021 14:17:02 +0530</pubDate>
-      
-      <guid>/posts/about-this-site/</guid>
-      <description>This site is powered by a Hugo theme called lekh which is a Hugo clone(almost) of https://www.vegardstikbakke.com/
-Lekh is my first take at designing a Hugo theme, and apart from the tiny bit of templating specific to Hugo in Golang, the rest is copied as it is from Vegard&amp;rsquo;s site. Also the dark mode is taken as it is from https://www.gwern.net/</description>
+      <guid>//localhost:1313/posts/about-this-site/</guid>
+      <description>This site is powered by a Hugo theme called lekh which is a Hugo clone(almost) of https://www.vegardstikbakke.com/&#xA;Lekh is my first take at designing a Hugo theme, and apart from the tiny bit of templating specific to Hugo in Golang, the rest is copied as it is from Vegard&amp;rsquo;s site. Also the dark mode is taken as it is from https://www.gwern.net/</description>
     </item>
-    
   </channel>
 </rss>

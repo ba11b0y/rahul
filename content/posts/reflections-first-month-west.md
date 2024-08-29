@@ -1,0 +1,24 @@
+---
+title: "Reflections on the first month in the West"
+date: 2024-08-28T23:09:25-04:00
+---
+
+Hello!
+
+Today is the 28th of August, which marks exactly a month of my time here in the West, more specifically in the United States of America. The journey to the West seemed daunting and close to impossible when I first registered for an English proficiency test, which exists for people who want to travel to the West and are not native English speakers (like me).
+
+## My journey
+
+It started on a sad note after waving a teary goodbye to my parents and relatives back home. I traveled to Istanbul from Delhi on a seven-hour-long flight, after which I roughly spent five hours at the airport struggling to find vegetarian food worth the money. Then I boarded an 11-hour-long flight to Washington Dulles Airport, which is basically the airport for Washington, D.C. This is super confusing for first-timers because Washington, which is the federal capital, is a city and shares its name with Washington, which is a state on the West Coast of the United States (I can't imagine someone booking their tickets to Washington "state" only to realize that they've flown almost 7 hours extra if they wanted to go to the one in D.C.). I spent the night in D.C. at an Airbnb, which I had pre-booked. The host was from Patna, and she was super sweet. The next morning, I left for Blacksburg on a bus, which took around 5 hours, and that's how I finally came to Blacksburg! I believe things were relatively easier for me compared to other students who travel to the West for studies, as a friend of mine had already been living here for almost three years, and hence the absolute basic accommodations were already taken care of.
+
+## Experience so far
+
+Many species of migratory birds cover thousands of kilometers to escape the winters, and I remember seeing one for the very first time in Keoladeo National Park in Rajasthan. As with every migration, which is filled with challenges, my migration to the West was also filled with challenges but also new learnings. With new learnings, the brain forms new neuronal connections (and sometimes makes the existing ones weaker) and increases its "plasticity." A lot of things are drastically different here in the West, and many things are pretty much the same. As with a developed country, a lot of third-world problems do not exist here, but maybe this is too early to say since my experience at the time of writing this entry has been acutely limited to Blacksburg, which is a small college town in Virginia. Apart from Blacksburg, thanks to a dear friend who was already here in the U.S., I got a chance to go on a short trip to D.C., Pennsylvania, Maryland, and West Virginia. Stepping into the National Air and Space Museum in D.C. was personally very motivating for me. The realization that mankind has made immense progress is exhilarating. First human flight, first step on the moon, and achieving three times the speed of sound with a radar signature of a bird (yes, the mighty SR-71 Blackbird) are canon events in the history of mankind. I enjoyed running/cycling at night around the Washington Monument and witnessing the Lincoln Monument, about which I had read only in books when I was in school. While coming back from the trip, I got a chance to hike the New River Gorge National Park and witness an engineering marvel known as the New River Gorge Bridge.
+
+## Daily life
+
+A typical day starts with the constant worry of preparing meals. I find it therapeutic to cook, actually (at least now), but the whole process of narrowing down to one meal choice is something I dislike. Courses here are more project-heavy and demand that students research and come up with novel ideas. As of writing this entry, I am engulfed in a sea of imposter syndrome, constantly drowning in it, and sometimes wonder if I have chosen the wrong career.
+
+But there's a silver lining too! Outdoor activities are absolutely lovely here. I enjoy running and biking on the Huckleberry Trail and even otherwise, owing to the lack of traffic and well-paved trails. Being an apprentice to Papa for all his daily repair tasks has been immensely valuable in fixing stuff here and there in the old house I'm living in. Mumma's packing was perfect for anyone to survive at least a month without the need to buy anything from outside. My luggage, which took almost a month to finally pack, included everything from daily groceries, utensils, and even resealing clips.
+
+In conclusion, the first month here in Blacksburg has been a great learning experience so far, and it's just getting started. I hope to continue learning.
