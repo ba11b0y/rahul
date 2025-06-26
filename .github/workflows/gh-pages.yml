@@ -1,31 +1,17 @@
-name: github pages
-
-on:
-  push:
-    branches:
-      - master  # Set a branch to deploy
-
+# On every push this script is executed
+on: push
+name: Build and deploy GH Pages
 jobs:
-  deploy:
-    runs-on: ubuntu-20.04
+  build:
+    runs-on: ubuntu-latest
+    if: github.ref == 'refs/heads/main'
     steps:
-      - uses: actions/checkout@v2
-        with:
-          submodules: true  # Fetch Hugo themes (true OR recursive)
-          fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
-
-      - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v2
-        with:
-          hugo-version: '0.81.0'
-          # extended: true
-
-      - name: Build
-        run: hugo --minify
-
-      - name: Deploy
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./public
-          cname: ba11b0y.github.io
+      - name: checkout
+        uses: actions/checkout@v4
+      - name: build_and_deploy
+        uses: shalzz/zola-deploy-action@master
+        env:
+          # Target branch
+          PAGES_BRANCH: gh-pages
+          # Use the automatic token since publishing to same repo
+          TOKEN: ${{ secrets.GITHUB_TOKEN }}
