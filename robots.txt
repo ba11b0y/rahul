@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Allow: /
+Sitemap: https://ba11b0y.github.io/rahul/sitemap.xml
