@@ -18,10 +18,10 @@ highlight_code = true
 [extra]
 # Put all your custom variables here
 lekhz_name = "Rahul"
-lekhz_about = """Hello, I'm Rahul. Here are some things I feel you'll like to know about me! 
+lekhz_about = """Hello, I'm Rahul. Here are some things I feel you'd like to know about me! 
 - My most recent interest is in AI alignment and safety!
-- I am a MS student at Virginia Tech and enjoy learning about OS, compilers, and programming languages.
-- Apart from computers, I enjoy everything outdoors and enjoy a lot of sports.
+- I am a master's student at Virginia Tech and enjoy learning about OS, compilers, and programming languages.
+- Apart from computers, I enjoy playing table tennis, football(soccer), badminton and most recently squash.
 """
 lekhz_email = "jprrahultiwari@gmail.com"
 lekhz_post_limit = 3
